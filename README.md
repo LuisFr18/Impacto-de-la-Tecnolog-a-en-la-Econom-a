@@ -15,3 +15,7 @@ ELEMENTOS Y DATOS:
 1. Métrica: % de empresas que usan: Inteligencia Artificial (IA), Big Data, Internet de las Cosas (IoT), Computación en la nube, Automatización/Robótica.
 2. Impacto en ingresos o crecimiento económico:
 3. Productividad empresarial antes y después de la digitalización
+
+OBJETIVO:
+
+Analizar el impacto de la tecnología en la economía en los ultimos 10 años (2015-2025), identificando cómo la adopción de herramientas digitales influyen en la productividad de las empresas, su crecimiento económico y la generación de valor en distintos sectores, comparando los resultados antes y después de la digitalización.
