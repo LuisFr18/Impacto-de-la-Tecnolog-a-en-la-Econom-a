@@ -8,13 +8,19 @@
 
 ## INTRODUCCIÓN:
 
-En este proyecto de ciencia de datos vamos a ver cómo la tecnología ha transformado
+En este proyecto de ciencia de datos vamos a ver cómo la tecnología ha transformado 
 la forma en que las empresas producen, operan y generan valor mediante herramientas
-como la inteligencia artificial, el big data, el internet de las cosas y la automatización. 
+como  la  inteligencia  artificial, el  big data, el internet de las  cosas,  y  la automatización. 
 
-La tecnología ha evolucinado a tal punto que se ha convertido en un motor fundamental del desarrollo económico, transformando la manera en que las empresas producen, ofrecen sus servicios y compiten en el mercado. El uso de herramientas digitales como la inteligencia artificial, el big data, la computación en la nube y la automatización ha permitido mejorar la eficiencia, reducir costos, generar nuevas oportunidades de negocio, etc. Gracias a estos cambios, se fortalece la productividad empresarial, el crecimiento económico, la creación de empleo y la innovación en distintos sectores.
+La  tecnología  ha  evolucinado a tal punto que se ha convertido en un motor que es
+fundamental  del desarrollo  económico, transformando la manera en que las empresas 
+producen, ofrecen sus servicios, compiten en el mercado. El uso de las herramientas digitales como la inteligencia artificial, el big data, la computación en la nube y 
+la  automatización nos ha  permitido mejorar la eficiencia, reducir costos, generar 
+nuevas  oportunidades de  negocio , etc. Gracias a  estos cambios,  se fortalece la 
+productividad  empresarial , el  crecimiento económico , la creación de empleo y la 
+innovación en distintos sectores.
 
-## PREGUNTA: ¿Cómo ha cambiado la tecnología la forma en que las empresas operan y generan valor en la economía en los ultimos 10 años? (¿Qué sucedió?)
+## PREGUNTA: ¿Cómo ha cambiado la tecnología la forma en que las empresas operan  y generan valor en la economía en los ultimos 10 años? (¿Qué sucedió?)
 
 ## ELEMENTOS Y DATOS NECESARIOS:
 
@@ -36,4 +42,8 @@ La tecnología ha evolucinado a tal punto que se ha convertido en un motor funda
 
 ## OBJETIVO:
 
-Analizar el impacto de la tecnología en la economía de las empresas en los ultimos 10 años (2015-2025), identificando cómo la adopción de herramientas digitales influyen en la productividad de las empresas, su crecimiento económico y la generación de valor en distintos sectores, comparando los resultados antes y después de la digitalización.
+Analizar el impacto de la tecnología en la economía de  las empresas en los  ultimos 
+10 años (de 2015 a 2025), identificando  cómo la adopción  de herramientas digitales
+influyen  en  la  productividad de las empresas, su  crecimiento económico  y  en la 
+generación de valor en distintos sectores, comparando los resultados antes y  después 
+de la digitalización.
